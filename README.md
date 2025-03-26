@@ -1,21 +1,20 @@
-# figma-MCP-JSON-Config
+# Figma MCP JSON Configuration
 
+## Overview
+This repository contains a JSON configuration template for Figma MCP server settings.
+
+## Configuration File
+
+### `config.json`
+```json
 {
-
-  "mcpServers": {
-
-    "figma-developer-mcp": {
-
-      "url": "",
-
-      "env": {
-
-        "FIGMA_API_KEY": ""
-
-      }
-
-    }
-
-  }
-
+  "mcpServers": {
+    "figma-developer-mcp": {
+      "url": "",
+      "env": {
+        "FIGMA_API_KEY": ""
+      }
+    }
+  }
 }
+```
