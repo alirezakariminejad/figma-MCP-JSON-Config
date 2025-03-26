@@ -4,8 +4,6 @@
 This repository contains a JSON configuration template for Figma MCP server settings.
 
 ## Configuration File
-
-### `config.json`
 ```json
 {
   "mcpServers": {
