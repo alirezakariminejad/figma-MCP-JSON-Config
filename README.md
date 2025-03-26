@@ -1,0 +1,1 @@
+# figma-MCP-JSON-Config
